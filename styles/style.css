@@ -88,8 +88,10 @@ footer {
 }
 #animalList {
     border-width: 10px;
-    border-spacing: 15px;
+    border-spacing: 10px;
     Border-color: rgb(12, 255, 128, 0.6);
     border-style: groove;
-    border-padding: 10px;
+    padding: 10px;
+    font-weight: thick;
+    font-style: italic;
 }
