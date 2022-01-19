@@ -6,6 +6,19 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 
 ## Making a plan
 
+Create new title to the page
+
+Name and pronouns. make name 
+bold name/ pronouns italic
+
+Create a list of my favorite animals.  put a border around list
+
+Talk about swing dancing
+
+
+
+
+
 1. **Make a drawing of your app. Simple "wireframes"**
 1. **Once you have a drawing, name the HTML elements you'll need to realize your vision**
 1. **For each HTML element ask: Why do I need this?**
