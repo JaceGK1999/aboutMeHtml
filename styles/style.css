@@ -86,3 +86,12 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
+#animalList {
+    border-width: 10px;
+    border-spacing: 10px;
+    Border-color: rgb(12, 255, 128, 0.6);
+    border-style: groove;
+    padding: 10px;
+    font-weight: thick;
+    font-style: italic;
+}
